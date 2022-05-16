@@ -31,7 +31,7 @@ The SOLMIT currency code in its dedicated network will play the role of liquidit
 The SOLMIT currency code will be in the form of a local investment token for investing in digital currencies by financial institutions and insurance companies. Given the growing number of institutional investors in digital currencies and the allocation of part of the capital to this industry, we envision a bright future for BTC in this area.
 
 
-Why BTC in a Multi-chain Ecosystem?
+Why SOLMIT in a Multi-chain Ecosystem?
 
 
 
