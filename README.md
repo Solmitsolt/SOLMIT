@@ -1,4 +1,5 @@
 SOLMIT
+
 In the age of digitalization, the SOLMIT platform wants to open the door for this multidisciplinary industry in the insurance and financial services industry to enter the transparent and decentralized world of block-chain. And offer far better, faster, safer, and less expensive services.
 
 To date, different crypto currencies have been presented with different roles and applications. Except for a few of them, they have not been felt in the real world and have not solved a problem yet.
@@ -31,7 +32,7 @@ The SOLMIT currency code in its dedicated network will play the role of liquidit
 The SOLMIT currency code will be in the form of a local investment token for investing in digital currencies by financial institutions and insurance companies. Given the growing number of institutional investors in digital currencies and the allocation of part of the capital to this industry, we envision a bright future for BTC in this area.
 
 
-Why BTC in a Multi-chain Ecosystem?
+Why SOLMIT in a Multi-chain Ecosystem?
 
 
 
