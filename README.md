@@ -14,7 +14,7 @@ Total number of tokens:
 
 The number of tokens is limited to this value and no new tokens will be generated. (Mint)
 
-Function of SOLMI Crypto Currency
+Function of SOLMIT Crypto Currency
 
 Sticking: SOLMIT-specific block-chain rewards people who deposit SOLMIT passwords in the form of the same token in exchange for user participation in the consensus process and strengthening network security.
 
