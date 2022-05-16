@@ -4,7 +4,7 @@ In the age of digitalization, the SOLMIT platform wants to open the door for thi
 
 To date, different crypto currencies have been presented with different roles and applications. Except for a few of them, they have not been felt in the real world and have not solved a problem yet.
 
-The BTC project, came into being with the slogan "Idea is not important, implementation is important." to introduce block-chain technology into people’s lives and make it affordable and effortless. The traditional insurance and financial services industry have so many problems. The SOLMIT project has plans and ideas to solve these problems.
+The SOLMIT project, came into being with the slogan "Idea is not important, implementation is important." to introduce block-chain technology into people’s lives and make it affordable and effortless. The traditional insurance and financial services industry have so many problems. The SOLMIT project has plans and ideas to solve these problems.
 SOLT
 The SOMIT token was created in March 2022.
 
