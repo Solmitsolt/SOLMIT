@@ -22,7 +22,7 @@ Sticking: SOLMIT-specific block-chain rewards people who deposit SOLMIT password
 The SOLMIT currency code in its dedicated network will play the role of liquidity for insurance companies and tokens to pay premiums and possible damages.
 
 The SOLMIT
-currency code will be in the form of a local investment token for investing in digital currencies by financial institutions and insurance companies. Given the growing number of institutional investors in digital currencies and the allocation of part of the capital to this industry, we envision a bright future for BTC in this area.
+currency code will be in the form of a local investment token for investing in digital currencies by financial institutions and insurance companies. Given the growing number of institutional investors in digital currencies and the allocation of part of the capital to this industry, we envision a bright future for SOLMIT in this area.
 
 Function of SOLMIT Crypto Currency
 
